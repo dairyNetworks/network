@@ -1,0 +1,15 @@
+﻿policyId,name,acronym,type,scope
+pol1,Common Agricultural Policy,CAP,Policy Framework,EU
+pol2,Common Fisheries Policy,,Policy Framework,EU
+pol3,Water Framework Directive,,Directive,EU
+pol4,Nitrates Directive,,Directive,EU
+pol5,Marine Strategy Framework Directive,,Directive,EU
+pol6,National Emissions Ceiling Directive,,Directive,EU
+pol7,Renewable Energy Directive,,Directive,EU
+pol8,Climate Action and Low Carbon Development Act 2015,,Legislation,National
+pol9,Food Wise 2025,,Strategy,National
+pol10,Project Ireland 2040: National Development Plan,,Framework,National
+pol11,National Forestry Strategy,,Strategy,National
+pol12,National Adaptation Framework,,Strategy,National
+pol13,National Policy Position on Climate Action,,Policy,National
+pol14,Paris Agreement,,Treaty,International

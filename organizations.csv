@@ -1,0 +1,20 @@
+﻿orgId,name,acronym,type,category
+org1,Environmental Protection Agency,EPA,State Agency,Government
+org2,Environmental Pillar,EP,Environmental NGO Coalition,NGO
+org3,An Taisce,,Environmental NGO,NGO
+org4,Stop Climate Chaos Coalition,SCCC,Environmental NGO Coalition,NGO
+org5,Friends of the Earth,,Environmental NGO,NGO
+org6,Trócaire,,Overseas Development Agency,NGO
+org7,Marine Institute,,State Agency,Government
+org8,Dairy Industry Ireland,,Industry Representative Body,Industry
+org9,Irish Organic Farmers and Growers Association,,Industry Representative Body,Industry
+org10,Teagasc,,State Agriculture and Food Development Authority,Government
+org11,Irish Cattle and Sheep Farmers Association,ICSA,Farmer Representative Body,Industry
+org12,Bord Bia,,State Food Board,Government
+org13,Agricultural Training Council,ACOT,Former State Advisory Body,Government
+org14,Irish Cattle Breeding Federation,ICBF,Industry Research Body,Industry
+org15,Climate Change Advisory Council,,Independent Advisory Body,Government
+org16,Fine Gael,FG,Political Party,Political
+org17,Labour Party,,Political Party,Political
+org18,Fianna Fáil,FF,Political Party,Political
+org19,Sinn Féin,SF,Political Party,Political

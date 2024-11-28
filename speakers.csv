@@ -1,0 +1,24 @@
+﻿speakerId,name,affiliation,role,type,region,province
+sp1,Pat Deering,Fine Gael,Committee Chairman,Political,Carlow-Kilkenny,Leinster
+sp2,Willie Penrose,Labour Party,TD,Political,Longford-Westmeath,Leinster
+sp3,Michelle Mulherin,Fine Gael,Senator,Political,Mayo,Connacht
+sp4,Charlie McConalogue,Fianna Fáil,TD,Political,Donegal,Ulster
+sp5,Thomas Pringle,Independent,TD,Political,Donegal,Ulster
+sp6,Danny Healy-Rae,Independent,TD,Political,Kerry,Munster
+sp7,Martin Kenny,Sinn Féin,TD,Political,Sligo-Leitrim,Connacht
+sp8,Paul Daly,Fianna Fáil,Senator,Political,Westmeath,Leinster
+sp9,Pádraig Mac Lochlainn,Sinn Féin,Senator,Political,Donegal,Ulster
+sp10,Matthew Crowe,Environmental Protection Agency,Director of Evidence and Assessment,Expert,,
+sp11,Oisín Coghlan,Stop Climate Chaos Coalition,Director of Friends of the Earth,Expert,,
+sp12,Noreen Gumbo,Trócaire,Head of Humanitarian Programme,Expert,,
+sp13,Michael Ewing,Environmental Pillar,Coordinator,Expert,,
+sp14,Ian Lumley,An Taisce,Built Environment Officer,Expert,,
+sp15,Peter Heffernan,Marine Institute,Chief Executive,Expert,,
+sp16,Paul Connolly,Marine Institute,Director of Fisheries,Expert,,
+sp17,Conor Mulvihill,Dairy Industry Ireland,Director,Industry,,
+sp18,Miriam Ryan,Dairy Industry Ireland,Executive,Industry,,
+sp19,Gillian Westbrook,Irish Organic Farmers and Growers Association,CEO,Industry,,
+sp20,John McHugh,Irish Organic Farmers and Growers Association,Dairy Farmer,Industry,,
+sp21,Frank O'Mara,Teagasc,Director of Research,Expert,,
+sp22,Trevor Donnellan,Teagasc,Research Officer,Expert,,
+sp23,Patrick Kent,Irish Cattle and Sheep Farmers Association,National President,Industry,,
